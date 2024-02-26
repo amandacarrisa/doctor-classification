@@ -1,0 +1,1 @@
+Conducted a text mining project employing diverse machine learning models including Ensemble Learning, MLP, Gaussian Naive Bayes, XGBoost, Multinomial Naive Bayes, and Linear SVC. Identified XGBoost as the optimal model based on superior performance in accuracy, F1 score, and recall metrics.
